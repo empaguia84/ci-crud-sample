@@ -1,5 +1,5 @@
 	<body>
-		<h2> Simple CI CRUD Application </h2>
+		<h2> My application Emerson Pogi </h2>
 		<div class="table-responsive">
 			<table class="table">
 				<tr>
@@ -29,7 +29,7 @@
 			</table>
 		</div>
 		<script>
-			
+
 			function show_confirm(act,gotoid){
 				if(act=="edit")
 					var r=confirm("Do you really want to edit?");
@@ -39,5 +39,5 @@
 					window.location="<?php echo base_url(); ?>index.php/users/"+act+"/"+gotoid;
 					}
 				}
-			
+
 		</script>
