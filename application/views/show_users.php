@@ -1,5 +1,5 @@
 	<body>
-		<h2> My application Emerson Pogi </h2>
+		<h2> User List</h2>
 		<div class="table-responsive">
 			<table class="table">
 				<tr>
